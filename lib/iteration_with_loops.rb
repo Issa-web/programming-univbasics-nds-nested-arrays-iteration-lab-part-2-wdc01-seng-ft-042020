@@ -15,6 +15,10 @@ outer_result << src[row_index].min
 row_index += 1
  end
  
+<<<<<<< HEAD
 outer_result
 #binding.pry
+=======
+binding.pry
+>>>>>>> f404d6696bde87f6ac76319fa066f5b24ea10603
 end 
